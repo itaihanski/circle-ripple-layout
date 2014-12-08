@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleRippleLayout">
+        <attr name="crl_rippleColor" format="color" />
+        <attr name="crl_rippleBgColor" format="color" />
+        <attr name="crl_padding" format="dimension" />
+    </declare-styleable>
+
+</resources>
